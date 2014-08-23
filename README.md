@@ -1,0 +1,1 @@
+WebAppLauncher will be able to compile an android app witch shows any webapp in it. That will make finally the webapps easy to know, uploading it to the Play Store
